@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Badu Prakash - Living Life</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+        }
+        header, footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        p {
+            color: #666;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Badu Prakash - Living Life</h1>
+    </header>
+    <div class="container">
+        <h2>Welcome</h2>
+        <p>This website is dedicated to sharing my journey, experiences, and insights on living life to the fullest.</p>
+        
+        <h3>About Me</h3>
+        <p>My name is Badu Prakash. I am passionate about exploring new places, meeting new people, and experiencing diverse cultures.</p>
+        
+        <h3>My Philosophy</h3>
+        <p>I believe that life is a precious gift, and it's up to us to make the most of it. Embrace every moment, cherish every experience, and learn from every challenge.</p>
+        
+        <h3>Gallery</h3>
+        <img src="path/to/image1.jpg" alt="Gallery Image 1">
+        <img src="path/to/image2.jpg" alt="Gallery Image 2">
+        
+        <h3>Contact</h3>
+        <p>Feel free to reach out to me via email at <a href="mailto:badup@example.com">badup@example.com</a>.</p>
+    </div>
+    <footer>
+        <p>&copy; 2024 Badu Prakash. All rights reserved.</p>
+    </footer>
+</body>
+</html>
